@@ -32,8 +32,13 @@ public class Main {
         } else {
             // jika input sama dengan 14 maka akan menampilkan semua dataset tanpa
             // menampilkan timeslot
+            
             for (int i = 0; i < fileName.length; i++) {
-                jalankan(dataset, fileName[i][0], fileName[i][1], false, itr);
+                //multithreading
+                Runner1 t1 = new Runner1(dataset, fileName[i][0], fileName[i][1], false, itr);
+                t1.start();
+                //synchronous
+                //jalankan(dataset, fileName[i][0], fileName[i][1], false, itr);
             }
         }
 
@@ -59,9 +64,9 @@ public class Main {
         // Melakukan scheduling (Largest Degree)
         ExamScheduling sch = new ExamScheduling(conflictMatrix, sortedCourse);
         sch.tampil = tampil;
-        long startTimeLD = System.nanoTime();
+      
         timeslot = sch.scheduleByDegree();
-        long endTimeLD = System.nanoTime();
+ 
 
         // Mengecek apakah ditemukan konflik pada schedule
         System.out.println("Dataset yang dipilih : " + namadataset);

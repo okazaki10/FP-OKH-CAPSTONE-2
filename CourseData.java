@@ -42,7 +42,7 @@ public class CourseData {
         this.fileInput = fileInput;
     }
 
-    public int getNumberOfCourses() throws IOException {
+    public int getNumberOfCourses() {
         // menghitung banyak course
         this.jumlahCourse = course.size();
         return this.jumlahCourse;
@@ -52,7 +52,7 @@ public class CourseData {
         return this.student;
     }
 
-    public int[][] getConflictMatrix() throws IOException {
+    public int[][] getConflictMatrix(){
         int[][] conflictMatrix = new int[getNumberOfCourses() + 1][getNumberOfCourses() + 1];
 
         // membuat conflictMatrix
@@ -76,7 +76,7 @@ public class CourseData {
         return this.conflictMatrix;
     }
 
-    public void showConflictMatrix(int matrixlength) throws IOException {
+    public void showConflictMatrix(int matrixlength)  {
 
         // nunjukkin conflictMatrix:
         if (tampil) {

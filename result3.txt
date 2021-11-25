@@ -1,0 +1,136 @@
+
+List Dataset: 
+1. CAR91
+2. CAR92
+3. EAR83
+4. HEC92
+5. KFU93
+6. LSE91
+7. PUR93
+8. RYE92
+9. STA83
+10. TRE92
+11. UTA92
+12. UTE92
+13. YOR83
+14. tampilkan semua
+
+Pilih dataset  : Jumlah iterasi :  
+
+================================================
+
+ 
+
+================================================
+
+Dataset yang dipilih : HEC92
+Dataset yang dipilih : YOR83
+HEC92 Jumlah Iterasi : 1000000
+YOR83 Jumlah Iterasi : 1000000
+ 
+
+================================================
+
+Dataset yang dipilih : STA83
+STA83 Jumlah Iterasi : 1000000
+HEC92 Ada konflik? : Tidak
+YOR83 Ada konflik? : Tidak
+STA83 Ada konflik? : Tidak
+YOR83 Minimal Timeslots: 23
+STA83 Minimal Timeslots: 13
+ 
+HEC92 Minimal Timeslots: 20
+ 
+ 
+
+================================================
+
+Dataset yang dipilih : EAR83
+EAR83 Jumlah Iterasi : 1000000
+EAR83 Ada konflik? : Tidak
+EAR83 Minimal Timeslots: 26
+
+================================================
+
+
+================================================
+
+ 
+
+================================================
+
+Dataset yang dipilih : UTE92
+UTE92 Jumlah Iterasi : 1000000
+UTE92 Ada konflik? : Tidak
+UTE92 Minimal Timeslots: 11
+Dataset yang dipilih : TRE92
+TRE92 Jumlah Iterasi : 1000000
+TRE92 Ada konflik? : Tidak
+TRE92 Minimal Timeslots: 22
+Dataset yang dipilih : LSE91
+LSE91 Jumlah Iterasi : 1000000
+LSE91 Ada konflik? : Tidak
+LSE91 Minimal Timeslots: 19
+ 
+
+================================================
+
+Dataset yang dipilih : KFU93
+KFU93 Jumlah Iterasi : 1000000
+KFU93 Ada konflik? : Tidak
+KFU93 Minimal Timeslots: 20
+ 
+ 
+ 
+
+================================================
+
+
+================================================
+
+Dataset yang dipilih : CAR91
+CAR91 Jumlah Iterasi : 1000000
+Dataset yang dipilih : CAR92
+CAR92 Jumlah Iterasi : 1000000
+CAR91 Ada konflik? : Tidak
+CAR91 Minimal Timeslots: 35
+CAR92 Ada konflik? : Tidak
+CAR92 Minimal Timeslots: 32
+
+================================================
+
+Dataset yang dipilih : RYE92
+RYE92 Jumlah Iterasi : 1000000
+RYE92 Ada konflik? : Tidak
+RYE92 Minimal Timeslots: 25
+ 
+
+================================================
+
+ 
+Dataset yang dipilih : UTA92
+UTA92 Jumlah Iterasi : 1000000
+UTA92 Ada konflik? : Tidak
+UTA92 Minimal Timeslots: 36
+
+================================================
+
+Dataset yang dipilih : PUR93
+PUR93 Jumlah Iterasi : 1000000
+PUR93 Ada konflik? : Tidak
+PUR93 Minimal Timeslots: 38
+YOR83 Optimized Timeslots with HillClimbing Algorithm : 23
+YOR83 Initial penalty = 41.19978746014878
+YOR83 Final penalty = 24.573857598299682
+YOR83 Delta = 40.354406871469465%
+YOR83 Hill Climbing execution time in miliseconds : 2017982
+STA83 Optimized Timeslots with HillClimbing Algorithm : 13
+STA83 Initial penalty = 117.2962356792144
+STA83 Final penalty = 88.01800327332242
+STA83 Delta = 24.96093095942401%
+STA83 Hill Climbing execution time in miliseconds : 2334479
+HEC92 Optimized Timeslots with HillClimbing Algorithm : 20
+HEC92 Initial penalty = 12.476797732908254
+HEC92 Final penalty = 6.478568898335104
+HEC92 Delta = 48.07506671966385%
+HEC92 Hill Climbing execution time in miliseconds : 2372626

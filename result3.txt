@@ -134,3 +134,48 @@ HEC92 Initial penalty = 12.476797732908254
 HEC92 Final penalty = 6.478568898335104
 HEC92 Delta = 48.07506671966385%
 HEC92 Hill Climbing execution time in miliseconds : 2372626
+LSE91 Optimized Timeslots with HillClimbing Algorithm : 19
+LSE91 Initial penalty = 17.97872340425532
+LSE91 Final penalty = 6.987527512839325
+LSE91 Delta = 61.13446235462151%
+LSE91 Hill Climbing execution time in miliseconds : 2497728
+EAR83 Optimized Timeslots with HillClimbing Algorithm : 26
+EAR83 Initial penalty = 47.56088888888889
+EAR83 Final penalty = 20.786666666666665
+EAR83 Delta = 56.29462116398162%
+EAR83 Hill Climbing execution time in miliseconds : 2518966
+UTE92 Optimized Timeslots with HillClimbing Algorithm : 10
+UTE92 Initial penalty = 32.67963636363636
+UTE92 Final penalty = 15.494545454545454
+UTE92 Delta = 52.586542634278786%
+UTE92 Hill Climbing execution time in miliseconds : 2780704
+TRE92 Optimized Timeslots with HillClimbing Algorithm : 22
+TRE92 Initial penalty = 10.04653828519028
+TRE92 Final penalty = 6.483952315451628
+TRE92 Delta = 35.46083107044246%
+TRE92 Hill Climbing execution time in miliseconds : 3005715
+KFU93 Optimized Timeslots with HillClimbing Algorithm : 20
+KFU93 Initial penalty = 34.198915685174796
+KFU93 Final penalty = 10.180033651149747
+KFU93 Delta = 70.23287596348328%
+KFU93 Hill Climbing execution time in miliseconds : 4644484
+RYE92 Optimized Timeslots with HillClimbing Algorithm : 25
+RYE92 Initial penalty = 19.77427501523992
+RYE92 Final penalty = 5.033789079508839
+RYE92 Delta = 74.5437490091074%
+RYE92 Hill Climbing execution time in miliseconds : 7315714
+CAR92 Optimized Timeslots with HillClimbing Algorithm : 32
+CAR92 Initial penalty = 7.052934469840925
+CAR92 Final penalty = 3.3174439437537324
+CAR92 Delta = 52.96363580379961%
+CAR92 Hill Climbing execution time in miliseconds : 7476779
+UTA92 Optimized Timeslots with HillClimbing Algorithm : 36
+UTA92 Initial penalty = 4.84519890905671
+UTA92 Final penalty = 2.3331138907175775
+UTA92 Delta = 51.84689143811021%
+UTA92 Hill Climbing execution time in miliseconds : 7701342
+CAR91 Optimized Timeslots with HillClimbing Algorithm : 35
+CAR91 Initial penalty = 7.516778920004726
+CAR91 Final penalty = 3.901394304620111
+CAR91 Delta = 48.09752493535279%
+CAR91 Hill Climbing execution time in miliseconds : 7831536

@@ -179,3 +179,8 @@ CAR91 Initial penalty = 7.516778920004726
 CAR91 Final penalty = 3.901394304620111
 CAR91 Delta = 48.09752493535279%
 CAR91 Hill Climbing execution time in miliseconds : 7831536
+PUR93 Optimized Timeslots with HillClimbing Algorithm : 38
+PUR93 Initial penalty = 12.486281299946723
+PUR93 Final penalty = 4.254062333510921
+PUR93 Delta = 65.93010976351243%
+PUR93 Hill Climbing execution time in miliseconds : 13144597

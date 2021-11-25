@@ -1,0 +1,186 @@
+
+List Dataset: 
+1. CAR91
+2. CAR92
+3. EAR83
+4. HEC92
+5. KFU93
+6. LSE91
+7. PUR93
+8. RYE92
+9. STA83
+10. TRE92
+11. UTA92
+12. UTE92
+13. YOR83
+14. tampilkan semua
+
+Pilih dataset  : Jumlah iterasi :  
+
+================================================
+
+Dataset yang dipilih : CAR91
+Jumlah Iterasi : 10000
+Ada konflik? : Tidak
+Minimal Timeslots: 35
+Optimized Timeslots with HillClimbing Algorithm : 35
+Initial penalty = 7.516778920004726
+Final penalty = 4.677478435542952
+Delta = 37.772834809673896%
+Hill Climbing execution time in miliseconds : 44497
+ 
+
+================================================
+
+Dataset yang dipilih : CAR92
+Jumlah Iterasi : 10000
+Ada konflik? : Tidak
+Minimal Timeslots: 32
+Optimized Timeslots with HillClimbing Algorithm : 32
+Initial penalty = 7.052934469840925
+Final penalty = 3.8262120636299475
+Delta = 45.750069279798005%
+Hill Climbing execution time in miliseconds : 37684
+ 
+
+================================================
+
+Dataset yang dipilih : EAR83
+Jumlah Iterasi : 10000
+Ada konflik? : Tidak
+Minimal Timeslots: 26
+Optimized Timeslots with HillClimbing Algorithm : 26
+Initial penalty = 47.56088888888889
+Final penalty = 22.63911111111111
+Delta = 52.399730871304165%
+Hill Climbing execution time in miliseconds : 8935
+ 
+
+================================================
+
+Dataset yang dipilih : HEC92
+Jumlah Iterasi : 10000
+Ada konflik? : Tidak
+Minimal Timeslots: 20
+Optimized Timeslots with HillClimbing Algorithm : 20
+Initial penalty = 12.476797732908254
+Final penalty = 6.712362734679419
+Delta = 46.20123786269945%
+Hill Climbing execution time in miliseconds : 7626
+ 
+
+================================================
+
+Dataset yang dipilih : KFU93
+Jumlah Iterasi : 10000
+Ada konflik? : Tidak
+Minimal Timeslots: 20
+Optimized Timeslots with HillClimbing Algorithm : 20
+Initial penalty = 34.198915685174796
+Final penalty = 9.859412974387736
+Delta = 71.17039304652052%
+Hill Climbing execution time in miliseconds : 20516
+ 
+
+================================================
+
+Dataset yang dipilih : LSE91
+Jumlah Iterasi : 10000
+Ada konflik? : Tidak
+Minimal Timeslots: 19
+Optimized Timeslots with HillClimbing Algorithm : 19
+Initial penalty = 17.97872340425532
+Final penalty = 7.7505502567865
+Delta = 56.890430524382786%
+Hill Climbing execution time in miliseconds : 7873
+ 
+
+================================================
+
+Dataset yang dipilih : PUR93
+Jumlah Iterasi : 10000
+Ada konflik? : Tidak
+Minimal Timeslots: 38
+Optimized Timeslots with HillClimbing Algorithm : 38
+Initial penalty = 12.486281299946723
+Final penalty = 6.433304475226425
+Delta = 48.47701793124047%
+Hill Climbing execution time in miliseconds : 96638
+ 
+
+================================================
+
+Dataset yang dipilih : RYE92
+Jumlah Iterasi : 10000
+Ada konflik? : Tidak
+Minimal Timeslots: 25
+Optimized Timeslots with HillClimbing Algorithm : 25
+Initial penalty = 19.77427501523992
+Final penalty = 8.958199076896282
+Delta = 54.69771169869818%
+Hill Climbing execution time in miliseconds : 39949
+ 
+
+================================================
+
+Dataset yang dipilih : STA83
+Jumlah Iterasi : 10000
+Ada konflik? : Tidak
+Minimal Timeslots: 13
+Optimized Timeslots with HillClimbing Algorithm : 13
+Initial penalty = 117.2962356792144
+Final penalty = 87.8657937806874
+Delta = 25.090695987051404%
+Hill Climbing execution time in miliseconds : 9110
+ 
+
+================================================
+
+Dataset yang dipilih : TRE92
+Jumlah Iterasi : 10000
+Ada konflik? : Tidak
+Minimal Timeslots: 22
+Optimized Timeslots with HillClimbing Algorithm : 22
+Initial penalty = 10.04653828519028
+Final penalty = 7.7514901421366345
+Delta = 22.84416858727153%
+Hill Climbing execution time in miliseconds : 11063
+ 
+
+================================================
+
+Dataset yang dipilih : UTA92
+Jumlah Iterasi : 10000
+Ada konflik? : Tidak
+Minimal Timeslots: 36
+Optimized Timeslots with HillClimbing Algorithm : 36
+Initial penalty = 4.84519890905671
+Final penalty = 2.7878773629267375
+Delta = 42.461033793357785%
+Hill Climbing execution time in miliseconds : 39068
+ 
+
+================================================
+
+Dataset yang dipilih : UTE92
+Jumlah Iterasi : 10000
+Ada konflik? : Tidak
+Minimal Timeslots: 11
+Optimized Timeslots with HillClimbing Algorithm : 10
+Initial penalty = 32.67963636363636
+Final penalty = 15.051636363636364
+Delta = 53.94184869087228%
+Hill Climbing execution time in miliseconds : 9537
+ 
+
+================================================
+
+Dataset yang dipilih : YOR83
+Jumlah Iterasi : 10000
+Ada konflik? : Tidak
+Minimal Timeslots: 23
+Optimized Timeslots with HillClimbing Algorithm : 23
+Initial penalty = 41.19978746014878
+Final penalty = 26.00106269925611
+Delta = 36.89029895019216%
+Hill Climbing execution time in miliseconds : 6897
